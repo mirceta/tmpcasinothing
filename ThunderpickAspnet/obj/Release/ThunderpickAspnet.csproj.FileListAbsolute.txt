@@ -1,0 +1,6 @@
+C:\Users\km\source\repos\ThunderpickReader\ThunderpickAspnet\bin\Release\ThunderpickAspnet.exe.config
+C:\Users\km\source\repos\ThunderpickReader\ThunderpickAspnet\bin\Release\ThunderpickAspnet.exe
+C:\Users\km\source\repos\ThunderpickReader\ThunderpickAspnet\bin\Release\ThunderpickAspnet.pdb
+C:\Users\km\source\repos\ThunderpickReader\ThunderpickAspnet\obj\Release\ThunderpickAspnet.csproj.CoreCompileInputs.cache
+C:\Users\km\source\repos\ThunderpickReader\ThunderpickAspnet\obj\Release\ThunderpickAspnet.exe
+C:\Users\km\source\repos\ThunderpickReader\ThunderpickAspnet\obj\Release\ThunderpickAspnet.pdb
